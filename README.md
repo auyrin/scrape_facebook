@@ -1,4 +1,4 @@
-# scrape_facebook
-just, for educational purposes. this code scrapes facebook's marketplace for iphones.
-you can experiment making your searches and see if it extracts the results you need.
-it extracts the phones for sale, their prices, location and a link to the page
+# objective
+automate logging in to facebook, navigating to the marketplace, searching for a product, extracting the products from the first 50 scrolls(unlimited scrolling).
+# skills
+data_collection, data_cleaning, webscraping, web_automation, Python, html
